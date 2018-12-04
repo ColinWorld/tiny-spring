@@ -40,7 +40,7 @@ tiny-spring
 
 
 
-Join point
+ ·Join point
 
          -A point in the execution of a program such as a method call or field assigment
 
