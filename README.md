@@ -32,3 +32,26 @@ tiny-spring
 [60分钟徒手撸出Spring框架:土法造炮篇](https://segmentfault.com/l/1500000013061317?d=be83d672744f2f15b77bb40795505e4b)
 
 [60分钟徒手撸出Spring框架:高仿版](https://segmentfault.com/l/1500000013110630?d=a09ac8198372f552dc68c572b2b38664)
+
+
+
+
+
+
+
+
+Join point
+
+         -A point in the execution of a program such as a method call or field assigment
+
+ ·Pointcut
+
+        -An expresion that selects one or more in Join point
+
+ ·Adivce
+
+        -Code to be executed at a Join Point that has been selected by a Pointcut
+
+ ·Aspect
+
+       -A module that encapsulates pointcut and Adivce
